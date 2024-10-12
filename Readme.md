@@ -86,6 +86,7 @@ tokenizer = AutoTokenizer.from_pretrained('sofibrezden/ner-model-mountains')
 - **model_inference.py:** Script for performing inference with the trained model. It loads the saved model and tokenizer, processes custom text inputs, and highlights mountain names in the output.
 - **demo.ipynb:** Jupyter Notebook that demonstrates the evaluation of the pre-trained model from Hugging Face. It includes model evaluation, inference on test data, and visualizations like the confusion matrix, ROC curve, and precision-recall curve.
 - **data/:** This directory stores the training, validation, and test datasets used for model training.
+- **improvements_report.pdf:** This file outlines potential improvements for the project.
 
 # 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
