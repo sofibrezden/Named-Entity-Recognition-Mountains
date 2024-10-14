@@ -26,8 +26,8 @@ To run this project, you need Python 3.7+ and the required dependencies listed i
 
 Clone repository:
 ```bash
-git clone https://github.com/your-repository/mountain-ner.git
-cd ner-test-task
+git https://github.com/sofibrezden/Named-Entity-Recognition-Mountains.git
+cd Named-Entity-Recognition-Mountains
 ```
 
 Create a Virtual Environment:
